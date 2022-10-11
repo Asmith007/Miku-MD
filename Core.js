@@ -1187,7 +1187,7 @@ let cron = require('node-cron')
                                 "h": `Miku`,
                                 'duration': '99999', 
                                 'gifPlayback': 'true', 
-                                'caption': `Fantox`,
+                                'caption': `xAlone`,
                                 'jpegThumbnail': fs.readFileSync('./Assets/miku.mp4')
                                        }
                                       }
@@ -1332,7 +1332,7 @@ const ftroli = {
 
 
     const menulist = `
-    Konichiwa ${pushname} dear 👋. I am ${global.BotName}, a bot developed by: Fantox to take your WhatsApp usage into next level.
+    Konichiwa ${pushname} dear 👋. I am ${global.BotName}, a bot developed by: xAlone to take your WhatsApp usage into next level.
         
        「 System Info 」
     
@@ -1362,7 +1362,7 @@ const ftroli = {
     
     Type *-menu* or press any button below to start using *${global.BotName}*
     
-    ©️ *${global.BotName}* All Rights Reserved by: *Fantox*
+    ©️ *${global.BotName}* All Rights Reserved by: *xAlone*
     `
         const qtod = m.quoted? "true":"false"
         
@@ -1482,7 +1482,7 @@ case 'support': case 'supportgc':
 
 case 'repo': case 'botrepo':
     
-    reply(`*My Source Code:* https://github.com/FantoX001/Miku-MD`)
+    reply(`*My Source Code:* https://github.com/xAloneBOT/Miku-MD`)
     break
 
 case 'nsfwmenu':
