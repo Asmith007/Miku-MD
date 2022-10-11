@@ -15,7 +15,7 @@ global.packname = "Miku bot"
 global.author = "By: xAlone"
 global.OwnerName = "xAlone"
 global.BotSourceCode = "https://github.com/xAloneBOT/Miku-MD"
-global.SupportGroupLink = "https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"
+global.SupportGroupLink = "https://chat.whatsapp.com/D9LvrBdQQ31ESkg2EdOjYN"
 global.sessionName = "session"
 
 // Prefix //
@@ -59,18 +59,18 @@ global.ntilink = []
 
 global.mess = {
     jobdone: 'Job done...',
-    useradmin: 'Sorry, only *Group Admins* can use this command *Baka*!',
+    useradmin: 'Sorry, only *Group Admins* can use this command *Daddy*!',
     botadmin: 'Sorry, i cant execute this command without being an *Admin* of this group.',
-    botowner: 'Only my *Owner* can use this command, Baka!',
-    grouponly: 'This command is only made for *Groups*, Baka!',
-    privateonly: 'This command is only made for *Private Chat*, Baka!',
+    botowner: 'Only my *Owner* can use this command, Daddy!',
+    grouponly: 'This command is only made for *Groups*, Daddy!',
+    privateonly: 'This command is only made for *Private Chat*, Daddy!',
     botonly: 'Only the *Bot itself* can use this command!',
     waiting: 'Chotto Matte...',
-    nolink: 'Please provide me *link*, Baka!',
+    nolink: 'Please provide me *link*, Daddy!',
     error: 'An error occurd!',
     banned: 'You are *Banned* fron using commands!',
     bangc: 'This Group is *Banned* from using Commands!',
-    nonsfw: 'Dont be a pervert Baka! This is not a NSFW enabled group!'
+    nonsfw: 'Dont be a pervert Daddy! This is not a NSFW enabled group!'
     
 }
 
