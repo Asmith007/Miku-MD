@@ -4696,9 +4696,9 @@ case 'help': case 'h': case 'menu': case 'allmenu': case 'listmenu':{
       
  const helpmenu = `Konichiwa *${pushname}* Senpai,
 
-I am *Miku Nakano*, a bot developed by *Fantox*.
+I am *Miku Nakano*, a bot developed by *xAlone*.
 
-🔰 My prefix is:  ${prefix}
+🔰 My prefix is:  ${prefix} Love
 
 Here's the list of my Commands.
 
@@ -4770,7 +4770,7 @@ qr, say, translate, fliptext, toletter
 
 
  『  *${global.BotName}*  』
- Powered by: *Fantox*
+ Powered by: *xAlone*
 
  🔰 To use any of these commands type 
  " *${prefix}<Command name>* ".
