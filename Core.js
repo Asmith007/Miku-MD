@@ -1424,7 +1424,7 @@ case 'me': case 'profile': case 'p':
     
           } catch (e) {
      
-      pfp ='https://wallpapercave.com/wp/wp10524580.jpg'
+      pfp ='https://wallpapercave.com/wp/wp10524487.png'
     }
 
      const profilexx = `*「  Profile Info  」*\n\n*User Name* : ${pushname}\n*Bio* : ${bioo}\n*Group Admin Status* : ${adn}\n*Level* : ${levelMenu}\n*Exp* : ${xpMenu} out of ${reqXp}\n*Role* : ${role}`
@@ -3540,10 +3540,10 @@ let member = participants.map(u => u.id)
 let orang = member[Math.floor(Math.random() * member.length)]
 let jodoh = member[Math.floor(Math.random() * member.length)]
 let jawab = `@${orang.split('@')[0]} ❤️ @${jodoh.split('@')[0]}
-Ohh i see 👀💖...`
+Ohh i see Two Love Birds 👀💖...`
 let menst = [orang, jodoh]
 let buttons = [
-{ buttonId: '❤️', buttonText: { displayText: 'Congratulations ❤️' }, type: 1 }
+{ buttonId: '❤️', buttonText: { displayText: 'Congratulations Baka❤️' }, type: 1 }
 ]
 await Miku.sendButtonText(m.chat, buttons, jawab, Miku.user.name, m, {mentions: menst})
 }
@@ -3560,7 +3560,7 @@ let jawab = `👫 Soulmates
 @${me.split('@')[0]} ❤️ @${jodoh.split('@')[0]}`
 let ments = [me, jodoh]
 let buttons = [
-{ buttonId: '❤️', buttonText: { displayText: 'Be my Soulmate ❤️' }, type: 1 }
+{ buttonId: '❤️', buttonText: { displayText: 'Be my Soulmate Baby❤️' }, type: 1 }
 ]
 await Miku.sendButtonText(m.chat, buttons, jawab, Miku.user.name, m, {mentions: ments})
 }
@@ -3614,6 +3614,7 @@ case 'charactercheck':
     if (isBan) return reply(mess.banned)
     if (isBanChat) return reply(mess.bangc)
                    const dare =[
+	 "Fuck The Person Next To You🤤👀",
          "eat 2 tablespoons of rice without any side dishes, if it's dragging you can drink",
          "spill people who make you pause",
          "call crush/pickle now and send ss",
@@ -4801,7 +4802,7 @@ case '':
     if (isBan) return reply(mess.banned)	 			
     if (isBanChat) return reply(mess.bangc)
 
-      mikupic ='https://wallpapercave.com/wp/wp10524580.jpg'
+      mikupic ='https://wallpapercave.com/wp/wp10524487.png'
     
         
  const needhelpmenu = `Do you need help ${pushname} Senpai? Type *${prefix}help* to get my full command list.`
