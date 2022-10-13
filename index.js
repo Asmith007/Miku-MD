@@ -91,7 +91,7 @@ Miku.ev.on('groups.update', async pea => {
         try {
         ppgc = await Miku.profilePictureUrl(pea[0].id, 'image')
         } catch {
-        ppgc = 'https://wallpapercave.com/wp/wp10524580.jpg'
+        ppgc = 'https://wallpapercave.com/wp/wp10524487.png'
         }
         let wm_fatih = { url : ppgc }
         if (pea[0].announce == true) {
@@ -133,7 +133,7 @@ Miku.ev.on('group-participants.update', async (anu) => {
                 try {
                     ppuser = await Miku.profilePictureUrl(num, 'image')
                 } catch {
-                    ppuser = 'https://wallpapercave.com/wp/wp10753770.jpg'
+                    ppuser = 'https://wallpapercave.com/wp/wp10524623.png'
                 }
 
                 try {
@@ -151,7 +151,7 @@ Miku.ev.on('group-participants.update', async (anu) => {
                 mikutext = `
 Hello @${WAuserName.split("@")[0]},
 
-I am *Miku Nakano*, Welcome to ${metadata.subject}.
+I am *Miku Nakano* a bot developed by *xAlone*, Welcome to ${metadata.subject}.
 
 *Group Description:*
 ${metadata.desc}
