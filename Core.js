@@ -4695,9 +4695,9 @@ case 'help': case 'h': case 'menu': case 'allmenu': case 'listmenu':{
     if (isBan) return reply(mess.banned)	 			
     if (isBanChat) return reply(mess.bangc)
       
- const helpmenu = `Konichiwa *${pushname}* Senpai,
+ const helpmenu = `~Konichiwa~ *_${pushname}_* Senpai,
 
-I am *Miku Nakano*, a bot developed by *xAlone*.
+I am *Miku Nakano*, a bot developed by *_xAlone_*.
 
 🔰 My prefix is:  ${prefix} Love
 
@@ -4705,7 +4705,7 @@ Here's the list of my Commands.
 
 
  
- *━━━〈  🎆 Core 🎆  〉━━━*
+ *_━━━〈  🎆 Core 🎆  〉━━━_*
 
 speak, miku, stalk, profile, help, delete, deleteall, listgc, listpc, welcome, support, repo, script 
  
@@ -4771,7 +4771,7 @@ qr, say, translate, fliptext, toletter
 
 
  『  *${global.BotName}*  』
- Powered by: *xAlone*
+ Powered by: *_xAlone_*
 
  🔰 To use any of these commands type 
  " *${prefix}<Command name>* ".
