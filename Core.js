@@ -4782,7 +4782,7 @@ _qr, say, translate, fliptext, toletter_
     
 
  let buttonshelpm = [
-    {buttonId: `-owner`, buttonText: {displayText: 'MY DADDY'}, type: 1}
+    {buttonId: `-owner`, buttonText: {displayText: 'My Owner'}, type: 1}
     ]
                 let buttonMessage = {
                     video:fs.readFileSync('./system/miku2.mp4'),gifPlayback:true,
