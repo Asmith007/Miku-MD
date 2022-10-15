@@ -4715,57 +4715,57 @@ _self, public, ban, bangroup, bye, join, bye, block, unblock, broadcast_
 
  *━━━〈  🔥 Group 🔥  〉━━━*
  
-promote, demote, revoke, add, remove, tagall, hidetag, groupsetting, grouplink, setgcpp, setname, setdesc, group, nsfw 
+_promote, demote, revoke, add, remove, tagall, hidetag, groupsetting, grouplink, setgcpp, setname, setdesc, group, nsfw_ 
 
  *━━━〈  ❗ Anti Link ❕  〉━━━*
  
-antilinkgc, antilinktg, antilinktt, antilinkytch, antilinkytvid, antilinkig, antilinkfb, antilinktwit, antilinkall, antiwame
+_antilinkgc, antilinktg, antilinktt, antilinkytch, antilinkytvid, antilinkig, antilinkfb, antilinktwit, antilinkall, antiwame_
 
  *━━━〈  🪄 Search 🪄  〉━━━*
 
-play, ytmp3, ytmp4, yts, lyrics, google, gimage, pinterest, image, movie, wallpaper, searchgc, happymod, wikimedia, ringtone, anime, animestory, manga, ringtone  
+_play, ytmp3, ytmp4, yts, lyrics, google, gimage, pinterest, image, movie, wallpaper, searchgc, happymod, wikimedia, ringtone, anime, animestory, manga, ringtone_  
 
  *━━━〈  🔮 Convert 🔮  〉━━━*
 
-sticker, toimg, tovideo, togif , steal, stickermeme, emojimix, tourl, tomp3, toaudio
+_sticker, toimg, tovideo, togif , steal, stickermeme, emojimix, tourl, tomp3, toaudio_
 
  *━━━〈  🎵 Audio 🎶  〉━━━*
 
-bass, tempo, blown, deep, earrape, fast, fat, nightcore, reverse, robot, slow, squirrel
+_bass, tempo, blown, deep, earrape, fast, fat, nightcore, reverse, robot, slow, squirrel_
 
  *━━━〈  💟 Reactions 💟  〉━━━*
 
-bonk, cry, bully, cuddle, hug, kiss, lick, pat, smug, yeet, blush, smile, wave, highfive, handhold, nom, glomp, bite, slap, kill, happy, wink, poke, dance, cringe
+_bonk, cry, bully, cuddle, hug, kiss, lick, pat, smug, yeet, blush, smile, wave, highfive, handhold, nom, glomp, bite, slap, kill, happy, wink, poke, dance, cringe_
 
  *━━━〈  📱 Downloader 📲  〉━━━*
 
-play, ytmp3, ytmp4, ytvideo, mediafire, instagram, igtv, facebook, fbmp3, twitter, twittermp3, tiktok, tiktokaudio, tiktoknowm, mediafire  
+_play, ytmp3, ytmp4, ytvideo, mediafire, instagram, igtv, facebook, fbmp3, twitter, twittermp3, tiktok, tiktokaudio, tiktoknowm, mediafire_  
 
  *━━━〈  🥵 Weeb 🥵  〉━━━*
 
-crosplay, waifu, loli, neko, ppcouple, feed, foxgirl, feed, meow, tickle, wallpaper, coffee, animenom, waifu3, neko2, feed, meow, tickle, migumin, awoo, animewallpaper2, anime, manga
+_crosplay, waifu, loli, neko, ppcouple, feed, foxgirl, feed, meow, tickle, wallpaper, coffee, animenom, waifu3, neko2, feed, meow, tickle, migumin, awoo, animewallpaper2, anime, manga_
 
  *━━━〈  🈹 Informative 🆘  〉━━━*
 
-animequote, quote, covid, earthquake, wiki
+_animequote, quote, covid, earthquake, wiki_
 
  *━━━〈  🌀 Others 🌀  〉━━━*
 
-stickermeme, quotes, darkjoke 
+_stickermeme, quotes, darkjoke_ 
 
  *━━━〈  🧸 Fun 🧸  〉━━━*
 
-reaction, truth, dare, couple, soulmate, handsomecheck, beautifulcheck, awesomecheck, greatcheck, gaycheck, cutecheck, lesbiancheck, hornycheck, prettycheck, lovelycheck, uglycheck, charactercheck
+_reaction, truth, dare, couple, soulmate, handsomecheck, beautifulcheck, awesomecheck, greatcheck, gaycheck, cutecheck, lesbiancheck, hornycheck, prettycheck, lovelycheck, uglycheck, charactercheck_
 
  *━━━〈  📥 Essentials 📤  〉━━━*
 
-qr, say, translate, fliptext, toletter
+_qr, say, translate, fliptext, toletter_
 
  *━━━〈  🔞 NSFW 🔞  〉━━━*
 
-♋ Type " *${prefix}nsfw* " then enable NSFW (Admin only!) 
+♋ Type " *${prefix}nsfw* " then enable NSFW *(Admin only!)* 
 
-♋ Then type " *${prefix}nsfwmenu* " to get full list of NSFW commands.
+♋ Then type " *${prefix}nsfwmenu* " to get full list of *NSFW* commands.
 
 
 
@@ -4773,16 +4773,16 @@ qr, say, translate, fliptext, toletter
  『  *${global.BotName}*  』
  Powered by: *_xAlone_*
 
- ☢ To use any of these commands type 
+ ☢ *To use these commands type* 
  " *${prefix}<Command name>* ".
  
- 📳 ~To get Support Group link type~ " *${prefix}support* ".
+ 📳 ~*To get Support Group link type*~ " *${prefix}support* ".
 
- ☣ Type " *${prefix}help* " to get full command list.`
+ ☣ ~Type " *${prefix}help* " to get full command list.~`
     
 
  let buttonshelpm = [
-    {buttonId: `-owner`, buttonText: {displayText: 'Bot Owner'}, type: 1}
+    {buttonId: `-owner`, buttonText: {displayText: 'MY DADDY'}, type: 1}
     ]
                 let buttonMessage = {
                     video:fs.readFileSync('./system/miku2.mp4'),gifPlayback:true,
