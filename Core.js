@@ -4707,11 +4707,11 @@ Here's the list of my Commands.
  
  *_━━━〈  🧩 Core 🧩  〉━━━_*
 
-speak, miku, stalk, profile, help, delete, deleteall, listgc, listpc, welcome, support, repo, script 
+_speak, miku, stalk, profile, help, delete, deleteall, listgc, listpc, welcome, support, repo, script_ 
  
  *━━━〈  💗 Owner 💗  〉━━━*
 
-self, public, ban, bangroup, bye, join, bye, block, unblock, broadcast 
+_self, public, ban, bangroup, bye, join, bye, block, unblock, broadcast_ 
 
  *━━━〈  🔥 Group 🔥  〉━━━*
  
@@ -4776,7 +4776,7 @@ qr, say, translate, fliptext, toletter
  ☢ To use any of these commands type 
  " *${prefix}<Command name>* ".
  
- 📳 To get Support Group link type " *${prefix}support* ".
+ 📳 ~To get Support Group link type~ " *${prefix}support* ".
 
  ☣ Type " *${prefix}help* " to get full command list.`
     
