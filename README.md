@@ -1,6 +1,6 @@
 <p align="center">
-   <a href="https://github.com/FantoX001">
-    <img src="https://c.tenor.com/NJVFjOYEcsIAAAAC/miku-gotoubun.gif" width="610">
+   <a href="https://github.com/xAloneBOT">
+    <img src="https://media.tenor.com/hW2K1n0La8kAAAAd/love-miku.gif" width="610">
      
 </p>
 <h1 align="center"> Miku Nakano (Beta)
