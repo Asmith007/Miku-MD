@@ -6,7 +6,7 @@
 <h1 align="center"> Miku Nakano (Beta)
 </h1>
 <p align="center"> 
-  Konochiwa Senpai, I am "Miku Nakano" a WhatsApp bot made by Fantox to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
+  Konochiwa Senpai, I am "Miku Nakano" a WhatsApp bot made by xAlone to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
 
 <p align="center">
   <a href="https://github.com/FantoX001/Miku-MD/fork">
@@ -49,7 +49,7 @@
 ✧ The main motto of this project is to provide Beginner Devs a base without any limitations 😊.
 ✧ Check "Credits" section and Support Them too.
 
--regards FantoX001
+-regards xAlone
 ```
 </br>
 
@@ -142,8 +142,8 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 ## ✧✧✧ License and recode Permission:
 - Well, it's the most asked question !
 - And the answer is `"Permission is hereby granted for 100% modification/recode."`
-- And this project comes under [`MIT`](https://github.com/FantoX001/Miku-MD/blob/main/LICENSE.md) lincense.
-- Please at least [`Follow`](https://github.com/FantoX001/#follow) me on GitHub to show some appreciation.
+- And this project comes under [`MIT`](https://github.com/xAloneOT/Miku-MD/blob/main/LICENSE.md) lincense.
+- Please at least [`Follow`](https://github.com/xAloneBOT/#follow) me on GitHub to show some appreciation.
    
    
 ## ✧ Reminder:
@@ -159,7 +159,7 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 
 
 ## ✧ Help Me:
-- [`Follow`](https://github.com/FantoX001/#follow) me on GitHub to make me feel motivated.
+- [`Follow`](https://github.com/xAloneBOT/#follow) me on GitHub to make me feel motivated.
 - Give my project a ⭐ if you liked it.
 
      
