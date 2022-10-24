@@ -9,20 +9,20 @@
   Konochiwa Senpai, I am "Miku Nakano" a WhatsApp bot made by xAlone to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
 
 <p align="center">
-  <a href="https://github.com/FantoX001/Miku-MD/fork">
-    <img src="https://img.shields.io/github/forks/FantoX001/Miku-MD?label=Fork&style=social">
+  <a href="https://github.com/xAloneBOT/Miku-MD/fork">
+    <img src="https://img.shields.io/github/forks/xAloneBOT/Miku-MD?label=Fork&style=social">
     
     
-  <a href="https://github.com/FantoX001/Miku-MD/stargazers">
-    <img src="https://img.shields.io/github/stars/FantoX001/Miku-MD?style=social">
+  <a href="https://github.com/xAloneBOT/Miku-MD/stargazers">
+    <img src="https://img.shields.io/github/stars/xAloneBOT/Miku-MD?style=social">
   </a>
 
 <p align="center">
-  <a href="https://github.com/FantoX001/Miku-MD">
+  <a href="https://github.com/xAloneBOT/Miku-MD">
     <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/FantoX001/Miku-MD.visitor-badge&left_text=Total%20Repo%20Visits">
     
     
-<a href="https://github.com/FantoX001">
+<a href="https://github.com/xAloneBOT">
     <img src="(https://visitor-badge.glitch.me/badge?page_id=https://github.com/FantoX001/Shikimori-MD.visitor-badge&left_text=Total%20Repo%20Visitors)">
   </a>
 </br>
@@ -42,7 +42,7 @@
 4. Singe prefix ("-").
 5. Self restoration.
 6. No API key needed!
-7. Full premission to Recode.
+7. You Will Not Get Rickrolled.
 8. Regularly Updating and Improving.
 9. Supports Latest WhatsApp, GB, Fouad, Alpha, YoWhatsApp and all other mods (MD).
 
@@ -55,7 +55,7 @@
 
 ## ✧✧✧ Video tutorial for Heroku Deploy:
 
-<a href="https://youtu.be/fZdM7Ahb4JE"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="160"></a>
+<a href="https://www.youtube.com/watch?v=O91DT1pR1ew"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="160"></a>
 
 Here's the Video Tuturial for Deploying and Hosting Miku Bot on Heroku.
 
@@ -64,11 +64,11 @@ Here's the Video Tuturial for Deploying and Hosting Miku Bot on Heroku.
 #### ✧ `Fork` this repo.
 
 #### ✧ Click this scan button below and scan the given QR within 15 seconds from your WhatsApp. 
-<a href="https://miku-qr--fantox001.repl.co/"><img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="90" />
+<a href="https://miku-qr-by-xalone.xalonebot.repl.co/"><img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="90" />
 </a>
 #### Or, Scan indirectly from my `repl.it`
 
-#### <a href="https://replit.com/@FantoX001/Miku-QR?v=1"><img src="https://i.ibb.co/pPQjJL2/replit-logo-png-transparent.png" alt="replit-logo-png-transparent" border="0"  width="120"></a>
+#### <a href="https://replit.com/@xAloneBOT/Miku-QR-by-xAlone?v=1"><img src="https://i.ibb.co/pPQjJL2/replit-logo-png-transparent.png" alt="replit-logo-png-transparent" border="0"  width="120"></a>
 #### ✧ Download the `session.json` file and upload it on the hompage of your `Fork`.
 #### ✧ Go to your `Heroku` account.
 #### ✧ Create a `random app` in Heroku with any name.
@@ -100,7 +100,7 @@ heroku/nodejs
 
 ## ✧✧✧ CMD Deployment Method
 ```
-git clone https://github.com/FantoX001/Miku-MD.git
+git clone https://github.com/xAloneBOT/Miku-MD.git
 cd Miku-MD
 npm i
 npm start
