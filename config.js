@@ -7,15 +7,15 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['94779327828']
-global.OwnerNumber = ['94779327828']
-global.ownertag = ['94779327828']
+global.Owner = ['919707925737']
+global.OwnerNumber = ['919707925737']
+global.ownertag = ['919707925737']
 global.BotName = "Miku"
 global.packname = "Miku bot"
-global.author = "By: xAlone"
-global.OwnerName = "xAlone"
-global.BotSourceCode = "https://github.com/xAloneBOT/Miku-MD"
-global.SupportGroupLink = "https://chat.whatsapp.com/D9LvrBdQQ31ESkg2EdOjYN"
+global.author = "By: Lucifer07"
+global.OwnerName = "Lucifer07"
+global.BotSourceCode = "htthttps://chat.whatsapp.com/Cj50afXfGDn71YWQU183msps://youtu.be/O91DT1pR1ew?si=e-DclSHV9Za74cUx"
+global.SupportGroupLink = ""
 global.sessionName = "session"
 
 // Prefix //
